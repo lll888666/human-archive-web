@@ -4,6 +4,6 @@
 
 网页版提供示例体验，云端登录与保存请使用 Android 体验版。
 
-发布地址：https://lll888666.github.io/
+发布地址：https://lll888666.github.io/human-archive-web/
 
 网站内容及资源保留所有权利；本仓库未授予开源许可证。
