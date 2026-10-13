@@ -1,0 +1,51 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>人间存档 · 手机版</title><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="biography.css"><link rel="stylesheet" href="app-v2.css"><script src="app-v2.js" defer></script><style>.bottom-nav,.version-bar{display:none!important}body{background:#faf8f4!important}.preview-app{box-shadow:none!important;min-height:100dvh!important}#home-view{display:none}</style><script src="mobile-bridge.js" defer></script></head><body><svg class="symbol-library" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs>
+  <symbol id="search" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.6"/><path d="m16 16 5 5"/></symbol>
+  <symbol id="plus" viewBox="0 0 24 24"><path d="M12 4v16M4 12h16"/></symbol>
+  <symbol id="shelf" viewBox="0 0 24 24"><path d="M3 4q5-2 8 1v16q-3-3-8-1ZM21 4q-5-2-8 1v16q3-3 8-1Z"/></symbol>
+  <symbol id="compass" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="m16 8-2 6-6 2 2-6Z"/></symbol>
+  <symbol id="family" viewBox="0 0 24 24"><circle cx="12" cy="6" r="3"/><path d="M7 20v-4a5 5 0 0 1 10 0v4ZM6 9a2.6 2.6 0 0 0-3 2.5L2 19h5M18 9a2.6 2.6 0 0 1 3 2.5l1 7.5h-5"/></symbol>
+  <symbol id="person" viewBox="0 0 24 24"><circle cx="12" cy="6.5" r="3.5"/><path d="M4 21v-2a8 8 0 0 1 16 0v2Z"/></symbol>
+  <symbol id="close" viewBox="0 0 24 24"><path d="m6 6 12 12M18 6 6 18"/></symbol>
+<symbol id="back" viewBox="0 0 24 24"><path d="m15 5-7 7 7 7"/></symbol><symbol id="arrow" viewBox="0 0 24 24"><path d="M4 12h16m-6-6 6 6-6 6"/></symbol><symbol id="mic" viewBox="0 0 24 24"><rect x="9" y="2" width="6" height="13" rx="3"/><path d="M5 10v2a7 7 0 0 0 14 0v-2M12 19v3M8 22h8"/></symbol></defs></svg>
+
+<aside class="version-bar" aria-label="版本切换"><span>手机版 · 本机演示数据</span><a href="/?view=desktop">电脑版 / 云端档案</a></aside>
+<main class="app preview-app" id="screen"></main><template id="home-view">
+  <div class="paper-light" aria-hidden="true"></div>
+  <header class="masthead">
+    <a class="wordmark" href="./" aria-label="人间存档首页">人间存档<span>HUMAN ARCHIVE</span></a>
+    <button class="search-button glass" id="search-toggle" aria-label="搜索人生档案" aria-expanded="false"><svg><use href="#search"/></svg></button>
+  </header>
+  <div class="search-panel" id="search-panel" hidden><label for="search-input">找一本人生之书</label><input id="search-input" type="search" placeholder="搜索书名或人物" autocomplete="off"></div>
+
+  <section class="introduction" aria-labelledby="page-heading">
+    <h1 id="page-heading">每一个人生，<br>都是一本书。</h1>
+    <p>平凡的日子里，藏着最动人的故事。</p>
+  </section>
+
+  <section class="library" aria-label="人生传记书架">
+    <div class="books" id="books">
+      <button class="book father" data-title="父亲的一生" data-person="父亲" aria-label="打开父亲的一生，演示档案">
+        <span class="book-title">父亲的一生</span><span class="book-subtitle">山高岁月，父爱如光。</span>
+        <span class="portrait father-photo" role="img" aria-label="夕阳中的父亲肖像"></span><span class="book-years">1952 — 2020</span>
+      </button>
+      <button class="book grandmother" data-title="外婆的故事" data-person="外婆" aria-label="打开外婆的故事，演示档案">
+        <span class="book-title">外婆的故事</span><span class="book-subtitle">她把温柔藏在了光里。</span>
+        <span class="portrait grandmother-photo" role="img" aria-label="微笑的外婆肖像"></span><span class="book-years">1926 — 2010</span>
+      </button>
+      <button class="book youth" data-title="我的青春" data-person="我" aria-label="打开我的青春，演示档案">
+        <span class="book-title">我的青春</span><span class="book-subtitle">那些闪闪发光的日子。</span>
+        <span class="portrait youth-photo" role="img" aria-label="年轻人的侧面肖像"></span><span class="book-years">1985 — 至今</span>
+      </button>
+    </div>
+    <p class="search-empty" id="search-empty" hidden>没有找到这本书，试试其他名字。</p>
+    <div class="wooden-shelf" aria-hidden="true"></div>
+    <div class="still-life">
+      <div class="scene-band" aria-hidden="true"><img src="assets/reference.png" alt=""></div>
+      <div class="vase" aria-hidden="true"><img src="assets/reference.png" alt=""></div>
+      <div class="stack" aria-hidden="true"><div>The Lives<br>We Remember</div><div>人间的温度</div></div>
+      <button class="new-archive glass" data-create><svg><use href="#plus"/></svg><span>新建人生档案</span></button>
+      <div class="sunlit-table" aria-hidden="true"><img src="assets/reference.png" alt=""></div>
+    </div>
+  </section>
+
+  </template><dialog id="editor" class="paper-dialog"><button class="close-button" data-action="close" aria-label="关闭"><svg><use href="#close"/></svg></button><div id="editor-content"></div></dialog><div class="toast" id="toast" role="status" aria-live="polite"></div></body></html>

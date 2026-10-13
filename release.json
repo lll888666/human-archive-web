@@ -1,0 +1,9 @@
+{
+  "version": "1.0.3",
+  "channel": "体验测试版",
+  "androidMinimum": "7.0",
+  "file": "downloads/human-archive-1.0.3-vps-test.apk",
+  "bytes": 23516311,
+  "sha256": "486e6b13423b032f301cce86503de1065e0146646e26dd6561b9dcbe3dab775b",
+  "immersiveRecorderInApk": false
+}
