@@ -8,7 +8,8 @@
  let enabled=new URLSearchParams(location.search).get('decorations')!=='off',destroyed=false,suspended=false,instance=null,generation=0,resizeFrame=0;
  const assetURL=new URL('assets/memory-doodles.svg',document.baseURI);
  // Existing first-party artwork; individual instances keep the same paths and colours.
- const specs=[['book',68,[-3,-8,106,85]],['photo',58,[-3,-3,81,94]],['letter',64,[-3,-3,101,68]],['star',32,[-21,-21,42,42]],['flower',62,[-51,-51,102,106]]];
+ const specs=[['book',68],['photo',58],['letter',64],['mic',58],['tape',64],['key',58],['flower',62],['star',38]]
+  .flatMap(([kind,size])=>Array.from({length:3},(_,variant)=>[`${kind}-${variant}`,size,[-6,-6,112,112]]));
  let artwork;
  function eligible(){return enabled&&!destroyed&&!suspended&&!narrow.matches&&!coarse.matches&&!reduce.matches}
  function mount(svg){
