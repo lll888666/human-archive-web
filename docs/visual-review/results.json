@@ -1,0 +1,144 @@
+{
+  "baselineCommit": "1f45c96605e11bf9a18ae7b420390682d9300110",
+  "visual": {
+    "status": "PASS",
+    "errors": [],
+    "viewports": [
+      {
+        "width": 1440,
+        "height": 900,
+        "samples": 11,
+        "blankSamples": 0,
+        "maxIndicatorError": 8.06243550055541e-06,
+        "scenes": [
+          "0",
+          "1",
+          "2"
+        ],
+        "copyLinksImagesGeometryMatch": true
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "samples": 11,
+        "blankSamples": 0,
+        "maxIndicatorError": 4.882812500006661e-05,
+        "scenes": [
+          "0",
+          "1",
+          "2"
+        ],
+        "copyLinksImagesGeometryMatch": true
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "samples": 11,
+        "blankSamples": 0,
+        "maxIndicatorError": 4.4604500983924655e-05,
+        "scenes": [
+          "0",
+          "1",
+          "2"
+        ],
+        "copyLinksImagesGeometryMatch": true
+      },
+      {
+        "width": 360,
+        "height": 800,
+        "samples": 11,
+        "blankSamples": 0,
+        "maxIndicatorError": 4.6153846153834666e-05,
+        "scenes": [
+          "0",
+          "1",
+          "2"
+        ],
+        "copyLinksImagesGeometryMatch": true
+      }
+    ]
+  },
+  "physics": {
+    "status": "PASS",
+    "dragDisplacement": 106.40266763878967,
+    "peakSquash": 0.30000000000000004,
+    "engineTiming": {
+      "updates": 1265,
+      "p95": 0.5999999046325684,
+      "max": 0.7999999523162842
+    },
+    "additionalChecks": [
+      "coarse pointer",
+      "initial reduced motion",
+      "query opt-out",
+      "artwork fetch failure",
+      "offscreen runner paused",
+      "real navigation pagehide clears world and DOM",
+      "history return remounts"
+    ],
+    "actualPageExit": {
+      "bodies": 0,
+      "layers": 0
+    },
+    "errors": []
+  },
+  "bodyCount": 93,
+  "site": {
+    "scope": "local static server; no external accounts or downloads submitted",
+    "checks": [
+      "5 viewports without overflow/broken assets",
+      "primary and four video links",
+      "mobile menu/Escape/focus/anchor",
+      "review credentials disclosure",
+      "3 scroll states",
+      "FAQ keyboard toggle",
+      "download dialog/Escape/APK exists",
+      "subdirectory hosting",
+      "reduced motion and JS-disabled readable content"
+    ],
+    "viewports": [
+      {
+        "width": 1440,
+        "height": 900,
+        "scrollWidth": 1440,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 1280,
+        "height": 800,
+        "scrollWidth": 1280,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "scrollWidth": 768,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "scrollWidth": 390,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 360,
+        "height": 800,
+        "scrollWidth": 360,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      }
+    ],
+    "errors": [],
+    "status": "PASS"
+  }
+}

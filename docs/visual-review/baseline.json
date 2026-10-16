@@ -1,0 +1,691 @@
+{
+  "phase": "before",
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "fingerprint": {
+        "text": "跳到正文 人间存档 HUMAN ARCHIVE 产品介绍 影像作品 立即体验 ↗ 把人生， 慢慢写成一本书。 留下家人的原声，整理零散的记忆。 让那些还没讲完的故事，有处可归。 立即体验网页版 ↗ 看看我们的故事 → 体验账号与使用说明 从一段声音开始，留住一个人的一生。 立体书房 · 新版界面预览 EVERY LIFE, ONE PAGE AT A TIME 先听一个故事。 从熟悉的声音开始。 不必按时间顺序，也不必组织好语言。想起一段往事，就从那里说起。先留下原声，再慢慢整理。 01 留下原声 02 核对记忆 03 阅读人生 01 / 原声记录 01 / KEEP THE VOICE 有些声音， 值得再听一遍。 外婆讲起小时候的院子，父亲说起第一次远行。按下录音，从一个熟悉的问题开始，留下他们自己的讲述。 保存原声 录音与上传 话题引导 走进书房 ↗ 原声记录 · 新版界面预览 02 / MAKE SENSE OF MEMORIES 零散的往事， 慢慢有了线索。 从讲述中整理时间、人物与经历。每一条记忆都可以回到来源，确认、修正或暂时存疑，由你决定什么值得写进故事。 AI 辅助整理 人工核对 来源追溯 走进书房 ↗ 记忆核对 · 示例数据 03 / A LIFE IN PAGES 每一个人生， 都能慢慢成书。 童年、求学、工作与相遇。把记忆整理为人生章节，再以阅读的方式，走近一个你熟悉却还未完全了解的人。 人生章节 书页阅读 原声回听 走进书房 ↗ 人生之书 · 示例数据 04 / KEEP IT IN THE FAMILY 留给自己。 也留给在乎的人。 为家人建立人物档案，邀请家族成员，按权限分享作品。让一个人的故事，成为一家人可以继续翻阅的记忆。 人物档案 家族邀请 权限分享 走进书房 ↗ 家族共享 · 示例数据 STORIES WORTH KEEPING 先看一个故事。 关于记录，关于记忆，也关于我们为什么出发。 HUMAN ARCHIVE / 01 人间 存档. 每一个平凡的人生，都值得被认真记录。 产品影像 人间存档 留下原声，整理记忆，把人生写成一本书。 B 站观看 ↗ 视频号 ↗ RELATED WORK / 02 昆仑谣 KUNLUN YAO 关联作品 昆仑谣 另一段故事，邀请你一起观看。 B 站观看 ↗ 视频号 ↗ BEFORE YOUR FIRST PAGE 开始之前。 现在可以直接体验吗？ AI 会替我决定人生故事吗？ 家人的故事会公开吗？ 有手机 App 吗？ 这些是实际产品画面吗？ ✳ 下一页， 从你开始。 找一个安静的下午，听一段熟悉的往事。 立即体验网页版 ↗ 下载 Android ↓ 体验测试阶段 · 完整功能需要体验账号 人间存档 HUMAN ARCHIVE 记录生命 · 整理记忆 · 传承未来 影像作品 常见问题 © 2026 人间存档",
+        "links": [
+          "#main",
+          "#",
+          "#record",
+          "#films",
+          "https://134.175.114.73/",
+          "#record",
+          "#films",
+          "#questions",
+          "https://134.175.114.73/",
+          "#films",
+          "https://134.175.114.73/#auth",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://www.bilibili.com/video/BV1hcpq62E7r/",
+          "https://weixin.qq.com/sph/AKDeiBSJG",
+          "https://www.bilibili.com/video/BV1f1pi6oEuK/",
+          "https://weixin.qq.com/sph/AienOaxmN",
+          "https://134.175.114.73/",
+          "#",
+          "#films",
+          "#questions",
+          "downloads/human-archive-1.0.3-vps-test.apk"
+        ],
+        "images": [
+          "assets/brand.svg",
+          "assets/memory-doodles.svg",
+          "assets/screens/S01.jpg",
+          "assets/screens/S10-voice-orb.jpg",
+          "assets/screens/S05-review.jpg",
+          "assets/screens/S07.jpg",
+          "assets/screens/S08.jpg"
+        ],
+        "sections": [
+          {
+            "id": "",
+            "height": 1211.671875
+          },
+          {
+            "id": "journey",
+            "height": 2610
+          },
+          {
+            "id": "record",
+            "height": 855
+          },
+          {
+            "id": "memory",
+            "height": 855
+          },
+          {
+            "id": "book",
+            "height": 855
+          },
+          {
+            "id": "family",
+            "height": 855
+          },
+          {
+            "id": "films",
+            "height": 999.859375
+          },
+          {
+            "id": "questions",
+            "height": 711.46875
+          },
+          {
+            "id": "",
+            "height": 636.96875
+          }
+        ],
+        "phoneWidth": 284
+      },
+      "samples": [
+        {
+          "progress": 0.0001918859649122807,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.10019188596491228,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.20019188596491228,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.3001918859649123,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.4001918859649123,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.5001918859649123,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.6001918859649122,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.7001918859649123,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.8001918859649123,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.9001918859649123,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 1,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "fingerprint": {
+        "text": "跳到正文 人间存档 HUMAN ARCHIVE 产品介绍 影像作品 立即体验 ↗ 把人生， 慢慢写成一本书。 留下家人的原声，整理零散的记忆。 让那些还没讲完的故事，有处可归。 立即体验网页版 ↗ 看看我们的故事 → 体验账号与使用说明 从一段声音开始，留住一个人的一生。 立体书房 · 新版界面预览 EVERY LIFE, ONE PAGE AT A TIME 先听一个故事。 从熟悉的声音开始。 不必按时间顺序，也不必组织好语言。想起一段往事，就从那里说起。先留下原声，再慢慢整理。 01 留下原声 02 核对记忆 03 阅读人生 01 / 原声记录 01 / KEEP THE VOICE 有些声音， 值得再听一遍。 外婆讲起小时候的院子，父亲说起第一次远行。按下录音，从一个熟悉的问题开始，留下他们自己的讲述。 保存原声 录音与上传 话题引导 走进书房 ↗ 原声记录 · 新版界面预览 02 / MAKE SENSE OF MEMORIES 零散的往事， 慢慢有了线索。 从讲述中整理时间、人物与经历。每一条记忆都可以回到来源，确认、修正或暂时存疑，由你决定什么值得写进故事。 AI 辅助整理 人工核对 来源追溯 走进书房 ↗ 记忆核对 · 示例数据 03 / A LIFE IN PAGES 每一个人生， 都能慢慢成书。 童年、求学、工作与相遇。把记忆整理为人生章节，再以阅读的方式，走近一个你熟悉却还未完全了解的人。 人生章节 书页阅读 原声回听 走进书房 ↗ 人生之书 · 示例数据 04 / KEEP IT IN THE FAMILY 留给自己。 也留给在乎的人。 为家人建立人物档案，邀请家族成员，按权限分享作品。让一个人的故事，成为一家人可以继续翻阅的记忆。 人物档案 家族邀请 权限分享 走进书房 ↗ 家族共享 · 示例数据 STORIES WORTH KEEPING 先看一个故事。 关于记录，关于记忆，也关于我们为什么出发。 HUMAN ARCHIVE / 01 人间 存档. 每一个平凡的人生，都值得被认真记录。 产品影像 人间存档 留下原声，整理记忆，把人生写成一本书。 B 站观看 ↗ 视频号 ↗ RELATED WORK / 02 昆仑谣 KUNLUN YAO 关联作品 昆仑谣 另一段故事，邀请你一起观看。 B 站观看 ↗ 视频号 ↗ BEFORE YOUR FIRST PAGE 开始之前。 现在可以直接体验吗？ AI 会替我决定人生故事吗？ 家人的故事会公开吗？ 有手机 App 吗？ 这些是实际产品画面吗？ ✳ 下一页， 从你开始。 找一个安静的下午，听一段熟悉的往事。 立即体验网页版 ↗ 下载 Android ↓ 体验测试阶段 · 完整功能需要体验账号 人间存档 HUMAN ARCHIVE 记录生命 · 整理记忆 · 传承未来 影像作品 常见问题 © 2026 人间存档",
+        "links": [
+          "#main",
+          "#",
+          "#record",
+          "#films",
+          "https://134.175.114.73/",
+          "#record",
+          "#films",
+          "#questions",
+          "https://134.175.114.73/",
+          "#films",
+          "https://134.175.114.73/#auth",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://www.bilibili.com/video/BV1hcpq62E7r/",
+          "https://weixin.qq.com/sph/AKDeiBSJG",
+          "https://www.bilibili.com/video/BV1f1pi6oEuK/",
+          "https://weixin.qq.com/sph/AienOaxmN",
+          "https://134.175.114.73/",
+          "#",
+          "#films",
+          "#questions",
+          "downloads/human-archive-1.0.3-vps-test.apk"
+        ],
+        "images": [
+          "assets/brand.svg",
+          "assets/memory-doodles.svg",
+          "assets/screens/S01.jpg",
+          "assets/screens/S10-voice-orb.jpg",
+          "assets/screens/S05-review.jpg",
+          "assets/screens/S07.jpg",
+          "assets/screens/S08.jpg"
+        ],
+        "sections": [
+          {
+            "id": "",
+            "height": 1023.625
+          },
+          {
+            "id": "journey",
+            "height": 2560
+          },
+          {
+            "id": "record",
+            "height": 797.265625
+          },
+          {
+            "id": "memory",
+            "height": 797.265625
+          },
+          {
+            "id": "book",
+            "height": 797.265625
+          },
+          {
+            "id": "family",
+            "height": 797.265625
+          },
+          {
+            "id": "films",
+            "height": 964.859375
+          },
+          {
+            "id": "questions",
+            "height": 674.671875
+          },
+          {
+            "id": "",
+            "height": 569.375
+          }
+        ],
+        "phoneWidth": 240
+      },
+      "samples": [
+        {
+          "progress": 0.000244140625,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.10050455729166667,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.20011393229166666,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.3003743489583333,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.3999837239583333,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.500244140625,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.6005045572916666,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.7001139322916666,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.8003743489583334,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.8999837239583334,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 1,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "fingerprint": {
+        "text": "跳到正文 人间存档 HUMAN ARCHIVE 立即体验 ↗ 把人生， 慢慢写成一本书。 留下家人的原声，整理零散的记忆。 让那些还没讲完的故事，有处可归。 立即体验网页版 ↗ 看看我们的故事 → 体验账号与使用说明 从一段声音开始，留住一个人的一生。 立体书房 · 新版界面预览 EVERY LIFE, ONE PAGE AT A TIME 先听一个故事。 从熟悉的声音开始。 不必按时间顺序，也不必组织好语言。想起一段往事，就从那里说起。先留下原声，再慢慢整理。 01 留下原声 02 核对记忆 03 阅读人生 01 / 原声记录 01 / KEEP THE VOICE 有些声音， 值得再听一遍。 外婆讲起小时候的院子，父亲说起第一次远行。按下录音，从一个熟悉的问题开始，留下他们自己的讲述。 保存原声 录音与上传 话题引导 走进书房 ↗ 原声记录 · 新版界面预览 02 / MAKE SENSE OF MEMORIES 零散的往事， 慢慢有了线索。 从讲述中整理时间、人物与经历。每一条记忆都可以回到来源，确认、修正或暂时存疑，由你决定什么值得写进故事。 AI 辅助整理 人工核对 来源追溯 走进书房 ↗ 记忆核对 · 示例数据 03 / A LIFE IN PAGES 每一个人生， 都能慢慢成书。 童年、求学、工作与相遇。把记忆整理为人生章节，再以阅读的方式，走近一个你熟悉却还未完全了解的人。 人生章节 书页阅读 原声回听 走进书房 ↗ 人生之书 · 示例数据 04 / KEEP IT IN THE FAMILY 留给自己。 也留给在乎的人。 为家人建立人物档案，邀请家族成员，按权限分享作品。让一个人的故事，成为一家人可以继续翻阅的记忆。 人物档案 家族邀请 权限分享 走进书房 ↗ 家族共享 · 示例数据 STORIES WORTH KEEPING 先看一个故事。 关于记录，关于记忆，也关于我们为什么出发。 HUMAN ARCHIVE / 01 人间 存档. 每一个平凡的人生，都值得被认真记录。 产品影像 人间存档 留下原声，整理记忆，把人生写成一本书。 B 站观看 ↗ 视频号 ↗ RELATED WORK / 02 昆仑谣 KUNLUN YAO 关联作品 昆仑谣 另一段故事，邀请你一起观看。 B 站观看 ↗ 视频号 ↗ BEFORE YOUR FIRST PAGE 开始之前。 现在可以直接体验吗？ AI 会替我决定人生故事吗？ 家人的故事会公开吗？ 有手机 App 吗？ 这些是实际产品画面吗？ ✳ 下一页， 从你开始。 找一个安静的下午，听一段熟悉的往事。 立即体验网页版 ↗ 下载 Android ↓ 体验测试阶段 · 完整功能需要体验账号 人间存档 HUMAN ARCHIVE 记录生命 · 整理记忆 · 传承未来 影像作品 常见问题 © 2026 人间存档",
+        "links": [
+          "#main",
+          "#",
+          "#record",
+          "#films",
+          "https://134.175.114.73/",
+          "#record",
+          "#films",
+          "#questions",
+          "https://134.175.114.73/",
+          "#films",
+          "https://134.175.114.73/#auth",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://www.bilibili.com/video/BV1hcpq62E7r/",
+          "https://weixin.qq.com/sph/AKDeiBSJG",
+          "https://www.bilibili.com/video/BV1f1pi6oEuK/",
+          "https://weixin.qq.com/sph/AienOaxmN",
+          "https://134.175.114.73/",
+          "#",
+          "#films",
+          "#questions",
+          "downloads/human-archive-1.0.3-vps-test.apk"
+        ],
+        "images": [
+          "assets/brand.svg",
+          "assets/memory-doodles.svg",
+          "assets/screens/S01.jpg",
+          "assets/screens/S10-voice-orb.jpg",
+          "assets/screens/S05-review.jpg",
+          "assets/screens/S07.jpg",
+          "assets/screens/S08.jpg"
+        ],
+        "sections": [
+          {
+            "id": "",
+            "height": 1059.40625
+          },
+          {
+            "id": "journey",
+            "height": 2110
+          },
+          {
+            "id": "record",
+            "height": 1119.703125
+          },
+          {
+            "id": "memory",
+            "height": 1119.703125
+          },
+          {
+            "id": "book",
+            "height": 1119.703125
+          },
+          {
+            "id": "family",
+            "height": 1119.703125
+          },
+          {
+            "id": "films",
+            "height": 1381.828125
+          },
+          {
+            "id": "questions",
+            "height": 608.96875
+          },
+          {
+            "id": "",
+            "height": 573.375
+          }
+        ],
+        "phoneWidth": 234
+      },
+      "samples": [
+        {
+          "progress": 0,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.09999506319115324,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.19952112954186413,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.29983708530805686,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.3993631516587678,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.4996791074249605,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.5999950631911533,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.6995211295418642,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.7998370853080569,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.8993631516587678,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.9996791074249605,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        }
+      ]
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "fingerprint": {
+        "text": "跳到正文 人间存档 HUMAN ARCHIVE 立即体验 ↗ 把人生， 慢慢写成一本书。 留下家人的原声，整理零散的记忆。 让那些还没讲完的故事，有处可归。 立即体验网页版 ↗ 看看我们的故事 → 体验账号与使用说明 从一段声音开始，留住一个人的一生。 立体书房 · 新版界面预览 EVERY LIFE, ONE PAGE AT A TIME 先听一个故事。 从熟悉的声音开始。 不必按时间顺序，也不必组织好语言。想起一段往事，就从那里说起。先留下原声，再慢慢整理。 01 留下原声 02 核对记忆 03 阅读人生 01 / 原声记录 01 / KEEP THE VOICE 有些声音， 值得再听一遍。 外婆讲起小时候的院子，父亲说起第一次远行。按下录音，从一个熟悉的问题开始，留下他们自己的讲述。 保存原声 录音与上传 话题引导 走进书房 ↗ 原声记录 · 新版界面预览 02 / MAKE SENSE OF MEMORIES 零散的往事， 慢慢有了线索。 从讲述中整理时间、人物与经历。每一条记忆都可以回到来源，确认、修正或暂时存疑，由你决定什么值得写进故事。 AI 辅助整理 人工核对 来源追溯 走进书房 ↗ 记忆核对 · 示例数据 03 / A LIFE IN PAGES 每一个人生， 都能慢慢成书。 童年、求学、工作与相遇。把记忆整理为人生章节，再以阅读的方式，走近一个你熟悉却还未完全了解的人。 人生章节 书页阅读 原声回听 走进书房 ↗ 人生之书 · 示例数据 04 / KEEP IT IN THE FAMILY 留给自己。 也留给在乎的人。 为家人建立人物档案，邀请家族成员，按权限分享作品。让一个人的故事，成为一家人可以继续翻阅的记忆。 人物档案 家族邀请 权限分享 走进书房 ↗ 家族共享 · 示例数据 STORIES WORTH KEEPING 先看一个故事。 关于记录，关于记忆，也关于我们为什么出发。 HUMAN ARCHIVE / 01 人间 存档. 每一个平凡的人生，都值得被认真记录。 产品影像 人间存档 留下原声，整理记忆，把人生写成一本书。 B 站观看 ↗ 视频号 ↗ RELATED WORK / 02 昆仑谣 KUNLUN YAO 关联作品 昆仑谣 另一段故事，邀请你一起观看。 B 站观看 ↗ 视频号 ↗ BEFORE YOUR FIRST PAGE 开始之前。 现在可以直接体验吗？ AI 会替我决定人生故事吗？ 家人的故事会公开吗？ 有手机 App 吗？ 这些是实际产品画面吗？ ✳ 下一页， 从你开始。 找一个安静的下午，听一段熟悉的往事。 立即体验网页版 ↗ 下载 Android ↓ 体验测试阶段 · 完整功能需要体验账号 人间存档 HUMAN ARCHIVE 记录生命 · 整理记忆 · 传承未来 影像作品 常见问题 © 2026 人间存档",
+        "links": [
+          "#main",
+          "#",
+          "#record",
+          "#films",
+          "https://134.175.114.73/",
+          "#record",
+          "#films",
+          "#questions",
+          "https://134.175.114.73/",
+          "#films",
+          "https://134.175.114.73/#auth",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://134.175.114.73/",
+          "https://www.bilibili.com/video/BV1hcpq62E7r/",
+          "https://weixin.qq.com/sph/AKDeiBSJG",
+          "https://www.bilibili.com/video/BV1f1pi6oEuK/",
+          "https://weixin.qq.com/sph/AienOaxmN",
+          "https://134.175.114.73/",
+          "#",
+          "#films",
+          "#questions",
+          "downloads/human-archive-1.0.3-vps-test.apk"
+        ],
+        "images": [
+          "assets/brand.svg",
+          "assets/memory-doodles.svg",
+          "assets/screens/S01.jpg",
+          "assets/screens/S10-voice-orb.jpg",
+          "assets/screens/S05-review.jpg",
+          "assets/screens/S07.jpg",
+          "assets/screens/S08.jpg"
+        ],
+        "sections": [
+          {
+            "id": "",
+            "height": 1020.5
+          },
+          {
+            "id": "journey",
+            "height": 2000
+          },
+          {
+            "id": "record",
+            "height": 1078.203125
+          },
+          {
+            "id": "memory",
+            "height": 1078.203125
+          },
+          {
+            "id": "book",
+            "height": 1078.203125
+          },
+          {
+            "id": "family",
+            "height": 1078.203125
+          },
+          {
+            "id": "films",
+            "height": 1412.21875
+          },
+          {
+            "id": "questions",
+            "height": 608.96875
+          },
+          {
+            "id": "",
+            "height": 573.375
+          }
+        ],
+        "phoneWidth": 216
+      },
+      "samples": [
+        {
+          "progress": 0.0004166666666666667,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.10041666666666667,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.20041666666666666,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.30041666666666667,
+          "scene": "0",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.40041666666666664,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.5004166666666666,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.6004166666666667,
+          "scene": "1",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.7004166666666667,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.8004166666666667,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 0.9004166666666666,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        },
+        {
+          "progress": 1,
+          "scene": "2",
+          "panelVisible": true,
+          "phoneVisible": true,
+          "indicator": false,
+          "overflow": false
+        }
+      ]
+    }
+  ],
+  "errors": [],
+  "status": "PASS"
+}
