@@ -1,0 +1,58 @@
+{
+  "scope": "local static server; no external accounts or downloads submitted",
+  "checks": [
+    "5 viewports without overflow/broken assets",
+    "primary and four video links",
+    "mobile menu/Escape/focus/anchor",
+    "review credentials disclosure",
+    "3 scroll states",
+    "FAQ keyboard toggle",
+    "download dialog/Escape/APK exists",
+    "subdirectory hosting",
+    "reduced motion and JS-disabled readable content"
+  ],
+  "viewports": [
+    {
+      "width": 1440,
+      "height": 900,
+      "scrollWidth": 1440,
+      "broken": [],
+      "emptyLinks": 0,
+      "status": "PASS"
+    },
+    {
+      "width": 1280,
+      "height": 800,
+      "scrollWidth": 1280,
+      "broken": [],
+      "emptyLinks": 0,
+      "status": "PASS"
+    },
+    {
+      "width": 768,
+      "height": 1024,
+      "scrollWidth": 768,
+      "broken": [],
+      "emptyLinks": 0,
+      "status": "PASS"
+    },
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "broken": [],
+      "emptyLinks": 0,
+      "status": "PASS"
+    },
+    {
+      "width": 360,
+      "height": 800,
+      "scrollWidth": 360,
+      "broken": [],
+      "emptyLinks": 0,
+      "status": "PASS"
+    }
+  ],
+  "errors": [],
+  "status": "PASS"
+}

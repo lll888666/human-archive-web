@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "playwright": "1.64.1"
+  },
+  "name": "human-archive-marketing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/browser.mjs"
+  }
+}

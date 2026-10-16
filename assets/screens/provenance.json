@@ -1,0 +1,62 @@
+{
+  "captured": "2026-10-16",
+  "status": "UI review preview; public Android 1.0.3 does not include this redesign",
+  "screens": [
+    {
+      "asset": "assets/screens/S01.jpg",
+      "screen": "home",
+      "viewport": [
+        390,
+        844
+      ],
+      "source": "human-archive remote-main based UI review branch",
+      "data": "fictional local SQLite fixtures; mock ASR/LLM; no production account",
+      "sha256": "9b5a4731b2fc93f1f054132222884cd4b62e964887a839d09fac3625acee7f50"
+    },
+    {
+      "asset": "assets/screens/S10-voice-orb.jpg",
+      "screen": "audio",
+      "viewport": [
+        390,
+        844
+      ],
+      "source": "human-archive remote-main based UI review branch",
+      "data": "fictional local SQLite fixtures; mock ASR/LLM; no production account",
+      "sha256": "cecfbcf0d007efe378e04fc1a54e59c8c6d430fbbc8f6b7e48f985725ce87996"
+    },
+    {
+      "asset": "assets/screens/S05-review.jpg",
+      "screen": "memories",
+      "viewport": [
+        390,
+        844
+      ],
+      "source": "human-archive remote-main based UI review branch",
+      "data": "fictional local SQLite fixtures; mock ASR/LLM; no production account",
+      "sha256": "27c39bbbe4fe729ea96e855f37ebe5fe1debe2063233dbdfd385f18fb03c0546"
+    },
+    {
+      "asset": "assets/screens/S07.jpg",
+      "screen": "reader",
+      "viewport": [
+        390,
+        844
+      ],
+      "source": "human-archive remote-main based UI review branch",
+      "data": "fictional local SQLite fixtures; mock ASR/LLM; no production account",
+      "sha256": "c3ee9ebc691f5c251ca9e1f5928d92278f407eb20d481fa6b38bf608f4f82fe8"
+    },
+    {
+      "asset": "assets/screens/S08.jpg",
+      "screen": "family",
+      "viewport": [
+        390,
+        844
+      ],
+      "source": "human-archive remote-main based UI review branch",
+      "data": "fictional local SQLite fixtures; mock ASR/LLM; no production account",
+      "sha256": "f378c575b39bcdb46cd899138a6c5b6228c62d296dd8b72fe428ba00aa694d4e"
+    }
+  ],
+  "appUiCommit": "f0c7dc29cda970eabd6b5228b594f0c1860f353b"
+}
