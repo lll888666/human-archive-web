@@ -6,6 +6,10 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node tests/browser.mjs"
+    "test": "node tests/browser.mjs",
+    "test:physics": "node tests/physics.mjs"
+  },
+  "dependencies": {
+    "matter-js": "0.20.0"
   }
 }
