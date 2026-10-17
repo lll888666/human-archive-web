@@ -3,7 +3,7 @@
   "status": "UI review preview; public Android 1.0.3 does not include this redesign",
   "screens": [
     {
-      "asset": "assets/screens/S01.jpg",
+      "asset": "assets/screens/S01-mock-books-08ff3da1.png",
       "screen": "home",
       "viewport": [
         478,
@@ -11,9 +11,9 @@
       ],
       "source": "User supplied codex-clipboard-08ff3da1-677c-4387-8486-936b77be44e2.png on 2026-10-17",
       "data": "Demo study with three fictional/example biography books; not a production account",
-      "sha256": "7bedd71c8a9d00305618b99718c52c3640f9fe81f6c1c32a51b35a20137f1641",
+      "sha256": "29ce007426f5cf7b7aad463a2ea1c438d453ffc52483b80b02cc2e2cbbd04dea",
       "appUiCommit": null,
-      "note": "User-selected mock 3D study image, encoded as JPEG without resizing or cropping. Dimensions describe source pixels."
+      "note": "Exact user-uploaded PNG bytes; unique asset URL prevents reuse of the former S01.jpg browser cache. No re-encoding, resizing or cropping."
     },
     {
       "asset": "assets/screens/S10-voice-orb.jpg",
