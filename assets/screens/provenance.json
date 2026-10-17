@@ -9,11 +9,11 @@
         478,
         1036
       ],
-      "source": "Archived local/mock 3D study screenshot: human-archive/docs/presentation-assets/人间存档手机截图/S01.jpg",
+      "source": "User supplied codex-clipboard-08ff3da1-677c-4387-8486-936b77be44e2.png on 2026-10-17",
       "data": "Demo study with three fictional/example biography books; not a production account",
-      "sha256": "e9424a5a4350a3386f92575f5c09ad4833c8ccf662649562e6d4b442794ee579",
+      "sha256": "7bedd71c8a9d00305618b99718c52c3640f9fe81f6c1c32a51b35a20137f1641",
       "appUiCommit": null,
-      "note": "Hero image replaced on 2026-10-17 at user request; archived UI, not the 2026-10-16 UI review capture. Dimensions describe source pixels."
+      "note": "User-selected mock 3D study image, encoded as JPEG without resizing or cropping. Dimensions describe source pixels."
     },
     {
       "asset": "assets/screens/S10-voice-orb.jpg",
