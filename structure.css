@@ -1,0 +1,17 @@
+/* Native scrolling keeps the reference's spatial rhythm without an extra runtime. */
+.story-sequence{padding:0 24px;background:#e5e5e1;color:#292927}
+.story-frame{max-width:1050px;margin:auto;padding:80px 0;display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:60px}
+.story-copy h2{font-size:clamp(32px,4.4vw,60px);margin:18px 0 24px}
+.story-copy .body-copy{max-width:390px}.story-copy article{padding:24px 0}
+.story-stages{display:flex;gap:10px;flex-wrap:wrap;margin-top:32px}
+.story-stages button{font:inherit;font-size:13px;padding:10px 0;border-bottom:2px solid transparent;color:inherit;min-height:44px}
+.story-stages button[aria-current=step]{border-color:currentColor}
+.story-device{justify-self:center;margin:0;text-align:center}.story-device .phone{width:280px}.story-device figcaption{font-size:12px;margin-top:18px;opacity:.75}
+.story-ready{height:290svh;position:relative}.story-ready .story-frame{height:calc(100svh - 78px);min-height:630px;position:sticky;top:78px;padding:48px 0}
+.story-ready .story-copy{position:relative}.story-ready .story-copy article{display:none}.story-ready .story-copy article.is-active{display:block;animation:story-entrance .85s cubic-bezier(.22,.68,0,1)}
+.story-progress{height:1px;background:currentColor;opacity:.3;transform-origin:left;transform:scaleX(var(--story-progress,0));margin-top:24px}
+@keyframes story-entrance{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
+@media(min-width:761px){.menu-toggle{display:none}}
+@media(max-width:860px){.story-frame{grid-template-columns:1fr;gap:25px;padding:48px 0;text-align:center}.story-copy .body-copy{margin:auto}.story-stages{justify-content:center;margin-top:15px}.story-ready{height:250svh}.story-ready .story-frame{top:70px;height:calc(100svh - 70px);min-height:660px;padding:20px 0;gap:10px;align-content:center}.story-copy h2{margin:8px 0 14px;font-size:32px}.story-copy article{padding:0}.story-device .phone{width:195px}.story-device figcaption{margin-top:8px;font-size:10px}.story-progress{margin-top:12px}.story-copy .body-copy{font-size:14px;line-height:1.7}}
+@media(prefers-reduced-motion:reduce){.story-ready{height:auto}.story-ready .story-frame{height:auto;min-height:0;position:static}.story-ready .story-copy article{display:block;animation:none}.story-stages{display:none}}
+.review-access{padding:0!important;max-width:420px!important;text-align:left;margin:16px auto!important;background:transparent!important;border:0!important;box-shadow:none!important}.review-access summary{text-align:center;cursor:pointer;font-size:12px;color:var(--soft);padding:4px}.review-access>div{margin:12px 0;padding:18px;border:1px solid var(--rule);border-radius:12px;background:#fffdf7}.review-access small{display:block}

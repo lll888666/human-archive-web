@@ -1,0 +1,322 @@
+{
+  "reference": {
+    "status": "PASS",
+    "arena": {
+      "x": 0,
+      "y": -270,
+      "width": 1440,
+      "height": 1139.828125
+    },
+    "dragHit": {
+      "hit": "hero-centre",
+      "mouse": [
+        {
+          "button": -1,
+          "position": {
+            "x": 100,
+            "y": 753
+          }
+        }
+      ]
+    },
+    "dragDisplacement": 0,
+    "constraintReleased": true,
+    "peakSquash": 0.30000000000000004,
+    "frameTiming": {
+      "samples": 121,
+      "p50": 16.69999999999709,
+      "p95": 16.700000000004366
+    },
+    "engineTiming": {
+      "updates": 1065,
+      "p95": 2.4000000953674316,
+      "max": 8.5
+    },
+    "lifecycle": null,
+    "actualPageExit": null,
+    "additionalChecks": null,
+    "errors": [],
+    "bodyCount": 238,
+    "actions": [
+      {
+        "label": "slow",
+        "forceCalls": 0,
+        "collisions": 55,
+        "maxSpeed": 0
+      },
+      {
+        "label": "fast-sweep-collision",
+        "forceCalls": 594,
+        "collisions": 99,
+        "maxSpeed": 0
+      },
+      {
+        "label": "drag",
+        "forceCalls": 0,
+        "collisions": 0,
+        "maxSpeed": 0
+      },
+      {
+        "label": "release",
+        "forceCalls": 0,
+        "collisions": 0,
+        "maxSpeed": 0
+      }
+    ],
+    "frames": [
+      "000-slow-before.png",
+      "001-slow-moving-0.png",
+      "002-slow-moving-20.png",
+      "003-slow-moving-40.png",
+      "004-slow-moving-60.png",
+      "005-slow-0.png",
+      "006-slow-1.png",
+      "007-slow-2.png",
+      "008-slow-3.png",
+      "009-slow-4.png",
+      "010-slow-5.png",
+      "011-slow-6.png",
+      "012-slow-7.png",
+      "013-slow-8.png",
+      "014-fast-sweep-collision-before.png",
+      "015-fast-moving-0.png",
+      "016-fast-moving-3.png",
+      "017-fast-moving-6.png",
+      "018-fast-moving-9.png",
+      "019-fast-sweep-collision-0.png",
+      "020-fast-sweep-collision-1.png",
+      "021-fast-sweep-collision-2.png",
+      "022-fast-sweep-collision-3.png",
+      "023-fast-sweep-collision-4.png",
+      "024-fast-sweep-collision-5.png",
+      "025-fast-sweep-collision-6.png",
+      "026-fast-sweep-collision-7.png",
+      "027-fast-sweep-collision-8.png",
+      "028-drag-before.png",
+      "029-drag-moving-6.png",
+      "030-drag-moving-12.png",
+      "031-drag-moving-18.png",
+      "032-drag-0.png",
+      "033-drag-1.png",
+      "034-drag-2.png",
+      "035-drag-3.png",
+      "036-drag-4.png",
+      "037-drag-5.png",
+      "038-drag-6.png",
+      "039-drag-7.png",
+      "040-drag-8.png",
+      "041-release-before.png",
+      "042-release-0.png",
+      "043-release-1.png",
+      "044-release-2.png",
+      "045-release-3.png",
+      "046-release-4.png",
+      "047-release-5.png",
+      "048-release-6.png",
+      "049-release-7.png",
+      "050-release-8.png"
+    ]
+  },
+  "local": {
+    "status": "PASS",
+    "arena": {
+      "x": 20,
+      "y": 272.375,
+      "width": 1400,
+      "height": 597.609375
+    },
+    "dragHit": {
+      "hit": "hero-art physics-active",
+      "mouse": [
+        {
+          "button": -1,
+          "position": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        {
+          "button": 0,
+          "position": {
+            "x": 1270.593994140625,
+            "y": 380.811279296875
+          },
+          "body": 122,
+          "isStatic": false
+        }
+      ]
+    },
+    "dragDisplacement": 130.98678196119823,
+    "constraintReleased": true,
+    "peakSquash": 0.30000000000000004,
+    "frameTiming": {
+      "samples": 121,
+      "p50": 16.69999999999709,
+      "p95": 16.799999999995634
+    },
+    "engineTiming": {
+      "updates": 1442,
+      "p95": 0.5999999046325684,
+      "max": 0.7000000476837158
+    },
+    "lifecycle": "PASS: toggle, geometry, CTA, 5 widths, reduced motion, pagehide/pageshow, full destroy",
+    "actualPageExit": {
+      "bodies": 0,
+      "layers": 0
+    },
+    "additionalChecks": [
+      "coarse pointer",
+      "initial reduced motion",
+      "query opt-out",
+      "artwork fetch failure",
+      "offscreen runner paused",
+      "real navigation pagehide clears world and DOM",
+      "history return remounts"
+    ],
+    "errors": [],
+    "bodyCount": 97,
+    "actions": [
+      {
+        "label": "slow",
+        "forceCalls": 0,
+        "collisions": 40,
+        "maxSpeed": 0
+      },
+      {
+        "label": "fast-sweep-collision",
+        "forceCalls": 445,
+        "collisions": 45,
+        "maxSpeed": 0
+      },
+      {
+        "label": "drag",
+        "forceCalls": 0,
+        "collisions": 35,
+        "maxSpeed": 0.04360106914640492
+      },
+      {
+        "label": "release",
+        "forceCalls": 0,
+        "collisions": 14,
+        "maxSpeed": 2.2737367544323206e-13
+      }
+    ],
+    "frames": [
+      "000-slow-before.png",
+      "001-slow-moving-0.png",
+      "002-slow-moving-20.png",
+      "003-slow-moving-40.png",
+      "004-slow-moving-60.png",
+      "005-slow-0.png",
+      "006-slow-1.png",
+      "007-slow-2.png",
+      "008-slow-3.png",
+      "009-slow-4.png",
+      "010-slow-5.png",
+      "011-slow-6.png",
+      "012-slow-7.png",
+      "013-slow-8.png",
+      "014-fast-sweep-collision-before.png",
+      "015-fast-moving-0.png",
+      "016-fast-moving-3.png",
+      "017-fast-moving-6.png",
+      "018-fast-moving-9.png",
+      "019-fast-sweep-collision-0.png",
+      "020-fast-sweep-collision-1.png",
+      "021-fast-sweep-collision-2.png",
+      "022-fast-sweep-collision-3.png",
+      "023-fast-sweep-collision-4.png",
+      "024-fast-sweep-collision-5.png",
+      "025-fast-sweep-collision-6.png",
+      "026-fast-sweep-collision-7.png",
+      "027-fast-sweep-collision-8.png",
+      "028-drag-before.png",
+      "029-drag-moving-6.png",
+      "030-drag-moving-12.png",
+      "031-drag-moving-18.png",
+      "032-drag-0.png",
+      "033-drag-1.png",
+      "034-drag-2.png",
+      "035-drag-3.png",
+      "036-drag-4.png",
+      "037-drag-5.png",
+      "038-drag-6.png",
+      "039-drag-7.png",
+      "040-drag-8.png",
+      "041-release-before.png",
+      "042-release-0.png",
+      "043-release-1.png",
+      "044-release-2.png",
+      "045-release-3.png",
+      "046-release-4.png",
+      "047-release-5.png",
+      "048-release-6.png",
+      "049-release-7.png",
+      "050-release-8.png",
+      "051-resize-1280.png",
+      "052-resize-768.png",
+      "053-resize-390.png",
+      "054-resize-360.png",
+      "055-resize-1440.png",
+      "056-reduced.png"
+    ]
+  },
+  "siteRegression": {
+    "scope": "local static server; no external accounts or downloads submitted",
+    "checks": [
+      "5 viewports without overflow/broken assets",
+      "primary and four video links",
+      "mobile menu/Escape/focus/anchor",
+      "review credentials disclosure",
+      "3 scroll states",
+      "FAQ keyboard toggle",
+      "download dialog/Escape/APK exists",
+      "subdirectory hosting",
+      "reduced motion and JS-disabled readable content"
+    ],
+    "viewports": [
+      {
+        "width": 1440,
+        "height": 900,
+        "scrollWidth": 1440,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 1280,
+        "height": 800,
+        "scrollWidth": 1280,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 768,
+        "height": 1024,
+        "scrollWidth": 768,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 390,
+        "height": 844,
+        "scrollWidth": 390,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      },
+      {
+        "width": 360,
+        "height": 800,
+        "scrollWidth": 360,
+        "broken": [],
+        "emptyLinks": 0,
+        "status": "PASS"
+      }
+    ],
+    "errors": [],
+    "status": "PASS"
+  }
+}

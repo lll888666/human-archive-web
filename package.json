@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "playwright": "1.64.1"
+  },
+  "name": "human-archive-marketing",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node tests/browser.mjs",
+    "test:physics": "node tests/physics.mjs",
+    "test:visual": "node tests/visual-system.mjs"
+  },
+  "dependencies": {
+    "matter-js": "0.20.0"
+  }
+}
