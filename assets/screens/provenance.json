@@ -6,12 +6,14 @@
       "asset": "assets/screens/S01.jpg",
       "screen": "home",
       "viewport": [
-        390,
-        844
+        478,
+        1036
       ],
-      "source": "human-archive remote-main based UI review branch",
-      "data": "fictional local SQLite fixtures; mock ASR/LLM; no production account",
-      "sha256": "9b5a4731b2fc93f1f054132222884cd4b62e964887a839d09fac3625acee7f50"
+      "source": "Archived local/mock 3D study screenshot: human-archive/docs/presentation-assets/人间存档手机截图/S01.jpg",
+      "data": "Demo study with three fictional/example biography books; not a production account",
+      "sha256": "e9424a5a4350a3386f92575f5c09ad4833c8ccf662649562e6d4b442794ee579",
+      "appUiCommit": null,
+      "note": "Hero image replaced on 2026-10-17 at user request; archived UI, not the 2026-10-16 UI review capture. Dimensions describe source pixels."
     },
     {
       "asset": "assets/screens/S10-voice-orb.jpg",
